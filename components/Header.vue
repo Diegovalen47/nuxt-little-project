@@ -1,0 +1,10 @@
+<template>
+  <v-banner
+    elevation="24"
+    sticky
+    color="indigo"
+    class="text-center"
+  >
+    EstuResidencia
+  </v-banner>
+</template>
